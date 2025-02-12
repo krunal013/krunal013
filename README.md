@@ -57,7 +57,7 @@
     
     
  ![Utsav Shah GitHub Statistics](https://github-readme-stats.vercel.app/api?username=krunal013&show_icons=true&theme=tokyonight&locale=en)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krunal013&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) 
- ![Utsav Shah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunal013&theme=dark) 
+ ![Krunal Mistry GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunal013&theme=dark) 
     
     
     
